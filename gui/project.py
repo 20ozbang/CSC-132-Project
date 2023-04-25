@@ -1,7 +1,7 @@
 # import pygame package
 import PySimpleGUI as la
 from requests import get, post
-from datetime import datetime
+from datetime import datetime 
 
 city = "ruston"
 temp = ""
